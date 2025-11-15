@@ -15,7 +15,7 @@ This tool helps developers quickly understand the purpose and structure of unfam
  Works **completely offline** using **Ollama** (no API key required)  
  File-level + project-level summaries  
  Simple UI built with **Streamlit**  
- Supports multiple local models (`llama3`, `mistral`, `codellama`)  
+ Supports multiple local models (`llama3`, `mistral`, `phi`)  
  Downloadable `.md` summary report  
 
 ---
@@ -48,7 +48,7 @@ Before running this project, ensure you have the following installed:
    ```bash
    ollama pull llama3
    ollama pull mistral
-   ollama pull codellama
+   ollama pull phi
 
 
 ## Installation
