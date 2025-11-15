@@ -56,14 +56,12 @@ Before running this project, ensure you have the following installed:
    ollama pull mistral
    ollama pull phi
 
-
 ## Installation
 
 Clone this repository
 
 git clone https://github.com/saqeeb05n/GitHub_Repository_Summarizer.git
 cd GitHub_Repository_Summarizer
-
 
 Create a virtual environment (optional but recommended)
 
@@ -72,12 +70,11 @@ venv\Scripts\activate      # On Windows
 
 source venv/bin/activate   # On macOS/Linux
 
-
 Install dependencies
 
 > pip install -r requirements.txt
 
- Running the App (Streamlit UI)
+Running the App (Streamlit UI)
 
 Start the local Streamlit interface:
 
