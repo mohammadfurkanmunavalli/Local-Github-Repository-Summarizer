@@ -20,6 +20,12 @@ This tool helps developers quickly understand the purpose and structure of unfam
 
 ---
 
+## 📸 UI Preview
+
+![UI Screenshot](assets/ui.png)
+
+---
+
 ##  Tech Stack
 
 - **Python 3.8+**
