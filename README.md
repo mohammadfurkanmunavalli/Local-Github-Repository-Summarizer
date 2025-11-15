@@ -22,7 +22,7 @@ This tool helps developers quickly understand the purpose and structure of unfam
 
 ## 📸 UI Preview
 
-![UI Screenshot](assets/ui.png)
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e6197a68-7496-49ba-b118-bf05aeb838a5" />
 
 ---
 
